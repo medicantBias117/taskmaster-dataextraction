@@ -1,0 +1,474 @@
+[
+  {
+    "TASK": "1-P",
+    "Alice": 4,
+    "Asim": 1,
+    "Liza": 3,
+    "Russell": 1,
+    "Tim": 5
+  },
+  {
+    "TASK": "1-1",
+    "Alice": 5,
+    "Asim": 1,
+    "Liza": 3,
+    "Russell": 4,
+    "Tim": 2
+  },
+  {
+    "TASK": "1-2",
+    "Alice": 4,
+    "Asim": 1,
+    "Liza": 3,
+    "Russell": 5,
+    "Tim": 2
+  },
+  {
+    "TASK": "1-3",
+    "Alice": 5,
+    "Asim": 1,
+    "Liza": 3,
+    "Russell": 4,
+    "Tim": 2
+  },
+  {
+    "TASK": "1-L",
+    "Alice": 0,
+    "Asim": 4,
+    "Liza": 5,
+    "Russell": 4,
+    "Tim": 0
+  },
+  {
+    "TASK": "1-T",
+    "Alice": 1,
+    "Asim": 0,
+    "Liza": 0,
+    "Russell": 0,
+    "Tim": 0
+  },
+  {
+    "TASK": "2-P",
+    "Alice": 2,
+    "Asim": 1,
+    "Liza": 4,
+    "Russell": 2,
+    "Tim": 5
+  },
+  {
+    "TASK": "2-1",
+    "Alice": 2,
+    "Asim": 3,
+    "Liza": 5,
+    "Russell": 1,
+    "Tim": 4
+  },
+  {
+    "TASK": "2-2",
+    "Alice": 4,
+    "Asim": 1,
+    "Liza": 1,
+    "Russell": 4,
+    "Tim": 1
+  },
+  {
+    "TASK": "2-3",
+    "Alice": 2,
+    "Asim": 3,
+    "Liza": 5,
+    "Russell": 4,
+    "Tim": 1
+  },
+  {
+    "TASK": "2-4",
+    "Alice": 3,
+    "Asim": 5,
+    "Liza": 4,
+    "Russell": 3,
+    "Tim": 3
+  },
+  {
+    "TASK": "2-L",
+    "Alice": 0,
+    "Asim": 0,
+    "Liza": 0,
+    "Russell": 0,
+    "Tim": 0
+  },
+  {
+    "TASK": "3-P",
+    "Alice": 1,
+    "Asim": 2,
+    "Liza": 4,
+    "Russell": 3,
+    "Tim": 5
+  },
+  {
+    "TASK": "3-1",
+    "Alice": 1,
+    "Asim": 3,
+    "Liza": 5,
+    "Russell": 3,
+    "Tim": 2
+  },
+  {
+    "TASK": "3-2",
+    "Alice": 1,
+    "Asim": 4,
+    "Liza": 5,
+    "Russell": 2,
+    "Tim": 3
+  },
+  {
+    "TASK": "3-3",
+    "Alice": 2,
+    "Asim": 6,
+    "Liza": 4,
+    "Russell": 3,
+    "Tim": 1
+  },
+  {
+    "TASK": "3-L",
+    "Alice": 1,
+    "Asim": 4,
+    "Liza": 4,
+    "Russell": 5,
+    "Tim": 4
+  },
+  {
+    "TASK": "4-P",
+    "Alice": 3,
+    "Asim": 1,
+    "Liza": 2,
+    "Russell": 5,
+    "Tim": 4
+  },
+  {
+    "TASK": "4-1",
+    "Alice": 4,
+    "Asim": 4,
+    "Liza": 5,
+    "Russell": 4,
+    "Tim": 4
+  },
+  {
+    "TASK": "4-2",
+    "Alice": 2,
+    "Asim": 3,
+    "Liza": 3,
+    "Russell": 2,
+    "Tim": 3
+  },
+  {
+    "TASK": "4-3",
+    "Alice": 5,
+    "Asim": 5,
+    "Liza": 5,
+    "Russell": 5,
+    "Tim": 5
+  },
+  {
+    "TASK": "4-4",
+    "Alice": 4,
+    "Asim": 1,
+    "Liza": 5,
+    "Russell": 3,
+    "Tim": 2
+  },
+  {
+    "TASK": "4-5",
+    "Alice": 0,
+    "Asim": 4,
+    "Liza": 0,
+    "Russell": 5,
+    "Tim": 3
+  },
+  {
+    "TASK": "4-L",
+    "Alice": 5,
+    "Asim": 0,
+    "Liza": 0,
+    "Russell": 0,
+    "Tim": 0
+  },
+  {
+    "TASK": "5-P",
+    "Alice": 4,
+    "Asim": 1,
+    "Liza": 5,
+    "Russell": 3,
+    "Tim": 2
+  },
+  {
+    "TASK": "5-1",
+    "Alice": 2,
+    "Asim": 4,
+    "Liza": 1,
+    "Russell": 3,
+    "Tim": 5
+  },
+  {
+    "TASK": "5-2",
+    "Alice": 5,
+    "Asim": 5,
+    "Liza": 5,
+    "Russell": 5,
+    "Tim": 5
+  },
+  {
+    "TASK": "5-3",
+    "Alice": 3,
+    "Asim": 5,
+    "Liza": 5,
+    "Russell": 3,
+    "Tim": 5
+  },
+  {
+    "TASK": "5-4",
+    "Alice": 1,
+    "Asim": 2,
+    "Liza": 4,
+    "Russell": 3,
+    "Tim": 5
+  },
+  {
+    "TASK": "5-L",
+    "Alice": 1,
+    "Asim": 2,
+    "Liza": 5,
+    "Russell": 4,
+    "Tim": 4
+  },
+  {
+    "TASK": "6-P",
+    "Alice": 1,
+    "Asim": 1,
+    "Liza": 3,
+    "Russell": 1,
+    "Tim": 5
+  },
+  {
+    "TASK": "6-1",
+    "Alice": 3,
+    "Asim": 1,
+    "Liza": 4,
+    "Russell": 5,
+    "Tim": 3
+  },
+  {
+    "TASK": "6-2",
+    "Alice": 0,
+    "Asim": 5,
+    "Liza": 5,
+    "Russell": 0,
+    "Tim": 5
+  },
+  {
+    "TASK": "6-3",
+    "Alice": 2,
+    "Asim": 5,
+    "Liza": 2,
+    "Russell": 1,
+    "Tim": 4
+  },
+  {
+    "TASK": "6-4",
+    "Alice": 4,
+    "Asim": 1,
+    "Liza": 5,
+    "Russell": 2,
+    "Tim": 3
+  },
+  {
+    "TASK": "6-L",
+    "Alice": 5,
+    "Asim": 4,
+    "Liza": 1,
+    "Russell": 3,
+    "Tim": 3
+  },
+  {
+    "TASK": "7-P",
+    "Alice": 2,
+    "Asim": 4,
+    "Liza": 3,
+    "Russell": 5,
+    "Tim": 1
+  },
+  {
+    "TASK": "7-1",
+    "Alice": 0,
+    "Asim": 0,
+    "Liza": 0,
+    "Russell": 5,
+    "Tim": 4
+  },
+  {
+    "TASK": "7-2",
+    "Alice": 4,
+    "Asim": 1,
+    "Liza": 5,
+    "Russell": 2,
+    "Tim": 4
+  },
+  {
+    "TASK": "7-3",
+    "Alice": 3,
+    "Asim": 2,
+    "Liza": 2,
+    "Russell": 3,
+    "Tim": 2
+  },
+  {
+    "TASK": "7-4",
+    "Alice": 2,
+    "Asim": 3,
+    "Liza": 5,
+    "Russell": 5,
+    "Tim": 5
+  },
+  {
+    "TASK": "7-L",
+    "Alice": 3,
+    "Asim": 5,
+    "Liza": 2,
+    "Russell": 1,
+    "Tim": 4
+  },
+  {
+    "TASK": "8-P",
+    "Alice": 1,
+    "Asim": 5,
+    "Liza": 3,
+    "Russell": 2,
+    "Tim": 4
+  },
+  {
+    "TASK": "8-1",
+    "Alice": 5,
+    "Asim": 3,
+    "Liza": 3,
+    "Russell": 3,
+    "Tim": 4
+  },
+  {
+    "TASK": "8-2",
+    "Alice": 2,
+    "Asim": 5,
+    "Liza": 3,
+    "Russell": 4,
+    "Tim": 2
+  },
+  {
+    "TASK": "8-3",
+    "Alice": 2,
+    "Asim": 1,
+    "Liza": 4,
+    "Russell": 3,
+    "Tim": 5
+  },
+  {
+    "TASK": "8-L",
+    "Alice": 3,
+    "Asim": 2,
+    "Liza": 4,
+    "Russell": 5,
+    "Tim": 1
+  },
+  {
+    "TASK": "8-T",
+    "Alice": 0,
+    "Asim": 0,
+    "Liza": 0,
+    "Russell": 1,
+    "Tim": 0
+  },
+  {
+    "TASK": "9-P",
+    "Alice": 3,
+    "Asim": 2,
+    "Liza": 1,
+    "Russell": 4,
+    "Tim": 5
+  },
+  {
+    "TASK": "9-1",
+    "Alice": 5,
+    "Asim": 3,
+    "Liza": 4,
+    "Russell": 1,
+    "Tim": 2
+  },
+  {
+    "TASK": "9-2",
+    "Alice": 3,
+    "Asim": 2,
+    "Liza": 2,
+    "Russell": 3,
+    "Tim": 2
+  },
+  {
+    "TASK": "9-3",
+    "Alice": 0,
+    "Asim": 0,
+    "Liza": 0,
+    "Russell": 0,
+    "Tim": 2
+  },
+  {
+    "TASK": "9-4",
+    "Alice": 3,
+    "Asim": 4,
+    "Liza": 5,
+    "Russell": 2,
+    "Tim": 1
+  },
+  {
+    "TASK": "9-L",
+    "Alice": 4,
+    "Asim": 1,
+    "Liza": 2,
+    "Russell": 5,
+    "Tim": 4
+  },
+  {
+    "TASK": "10-P",
+    "Alice": 3,
+    "Asim": 5,
+    "Liza": 1,
+    "Russell": 4,
+    "Tim": 2
+  },
+  {
+    "TASK": "10-1",
+    "Alice": 3,
+    "Asim": 3,
+    "Liza": 4,
+    "Russell": 5,
+    "Tim": 1
+  },
+  {
+    "TASK": "10-2",
+    "Alice": 3,
+    "Asim": 5,
+    "Liza": 0,
+    "Russell": 2,
+    "Tim": 4
+  },
+  {
+    "TASK": "10-3",
+    "Alice": 2,
+    "Asim": 5,
+    "Liza": 5,
+    "Russell": 1,
+    "Tim": 3
+  },
+  {
+    "TASK": "10-L",
+    "Alice": 5,
+    "Asim": 4,
+    "Liza": 0,
+    "Russell": 0,
+    "Tim": 3
+  }
+]

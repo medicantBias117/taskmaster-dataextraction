@@ -1,0 +1,386 @@
+[
+  {
+    "TASK": "1-P",
+    "Hugh": 1,
+    "Joe": 2,
+    "Lolly": 3,
+    "Mel": 4,
+    "Noel": 5
+  },
+  {
+    "TASK": "1-1",
+    "Hugh": 1,
+    "Joe": 5,
+    "Lolly": 2,
+    "Mel": 3,
+    "Noel": 4
+  },
+  {
+    "TASK": "1-2",
+    "Hugh": 2,
+    "Joe": 4,
+    "Lolly": 3,
+    "Mel": 2,
+    "Noel": 5
+  },
+  {
+    "TASK": "1-3",
+    "Hugh": 5,
+    "Joe": 3,
+    "Lolly": 4,
+    "Mel": 2,
+    "Noel": 2
+  },
+  {
+    "TASK": "1-L",
+    "Hugh": 4,
+    "Joe": 3,
+    "Lolly": 1,
+    "Mel": 5,
+    "Noel": 2
+  },
+  {
+    "TASK": "2-P",
+    "Hugh": 1,
+    "Joe": 2,
+    "Lolly": 4,
+    "Mel": 3,
+    "Noel": 5
+  },
+  {
+    "TASK": "2-1",
+    "Hugh": 5,
+    "Joe": 2,
+    "Lolly": 4,
+    "Mel": 3,
+    "Noel": 1
+  },
+  {
+    "TASK": "2-2",
+    "Hugh": 0,
+    "Joe": 4,
+    "Lolly": 2,
+    "Mel": 3,
+    "Noel": 5
+  },
+  {
+    "TASK": "2-3",
+    "Hugh": 5,
+    "Joe": 0,
+    "Lolly": 0,
+    "Mel": 5,
+    "Noel": 0
+  },
+  {
+    "TASK": "2-4",
+    "Hugh": 2,
+    "Joe": 3,
+    "Lolly": 5,
+    "Mel": 1,
+    "Noel": 4
+  },
+  {
+    "TASK": "2-L",
+    "Hugh": 4,
+    "Joe": 2,
+    "Lolly": 3,
+    "Mel": 5,
+    "Noel": 3
+  },
+  {
+    "TASK": "3-P",
+    "Hugh": 1,
+    "Joe": 3,
+    "Lolly": 4,
+    "Mel": 2,
+    "Noel": 5
+  },
+  {
+    "TASK": "3-1",
+    "Hugh": 4,
+    "Joe": 4,
+    "Lolly": 2,
+    "Mel": 1,
+    "Noel": 5
+  },
+  {
+    "TASK": "3-2",
+    "Hugh": 3,
+    "Joe": 2,
+    "Lolly": 2,
+    "Mel": 3,
+    "Noel": 2
+  },
+  {
+    "TASK": "3-3",
+    "Hugh": 3,
+    "Joe": 5,
+    "Lolly": 4,
+    "Mel": 1,
+    "Noel": 4
+  },
+  {
+    "TASK": "3-4",
+    "Hugh": 4,
+    "Joe": 0,
+    "Lolly": 0,
+    "Mel": -4,
+    "Noel": 3
+  },
+  {
+    "TASK": "3-L",
+    "Hugh": 0,
+    "Joe": 5,
+    "Lolly": 0,
+    "Mel": 0,
+    "Noel": 0
+  },
+  {
+    "TASK": "3-T",
+    "Hugh": 0,
+    "Joe": 1,
+    "Lolly": 0,
+    "Mel": 0,
+    "Noel": 0
+  },
+  {
+    "TASK": "4-P",
+    "Hugh": 1,
+    "Joe": 4,
+    "Lolly": 5,
+    "Mel": 3,
+    "Noel": 2
+  },
+  {
+    "TASK": "4-1",
+    "Hugh": 2,
+    "Joe": 3,
+    "Lolly": 1,
+    "Mel": 4,
+    "Noel": 5
+  },
+  {
+    "TASK": "4-2",
+    "Hugh": 1,
+    "Joe": 2,
+    "Lolly": 3,
+    "Mel": 5,
+    "Noel": 5
+  },
+  {
+    "TASK": "4-3",
+    "Hugh": 3,
+    "Joe": 4,
+    "Lolly": 2,
+    "Mel": 2,
+    "Noel": 5
+  },
+  {
+    "TASK": "4-4",
+    "Hugh": 5,
+    "Joe": 3,
+    "Lolly": 1,
+    "Mel": 5,
+    "Noel": 3
+  },
+  {
+    "TASK": "4-L",
+    "Hugh": 5,
+    "Joe": 2,
+    "Lolly": 3,
+    "Mel": 5,
+    "Noel": 3
+  },
+  {
+    "TASK": "5-P",
+    "Hugh": 1,
+    "Joe": 4,
+    "Lolly": 5,
+    "Mel": 2,
+    "Noel": 3
+  },
+  {
+    "TASK": "5-1",
+    "Hugh": 4,
+    "Joe": 2,
+    "Lolly": 1,
+    "Mel": 5,
+    "Noel": 3
+  },
+  {
+    "TASK": "5-2",
+    "Hugh": 3,
+    "Joe": 5,
+    "Lolly": 5,
+    "Mel": 2,
+    "Noel": 1
+  },
+  {
+    "TASK": "5-3",
+    "Hugh": 5,
+    "Joe": 0,
+    "Lolly": 0,
+    "Mel": 5,
+    "Noel": 0
+  },
+  {
+    "TASK": "5-4",
+    "Hugh": 3,
+    "Joe": 2,
+    "Lolly": 1,
+    "Mel": 5,
+    "Noel": 4
+  },
+  {
+    "TASK": "5-L",
+    "Hugh": 5,
+    "Joe": 5,
+    "Lolly": 3,
+    "Mel": 2,
+    "Noel": 1
+  },
+  {
+    "TASK": "5-T",
+    "Hugh": 1,
+    "Joe": 0,
+    "Lolly": 0,
+    "Mel": 0,
+    "Noel": 0
+  },
+  {
+    "TASK": "6-P",
+    "Hugh": 2,
+    "Joe": 3,
+    "Lolly": 5,
+    "Mel": 1,
+    "Noel": 3
+  },
+  {
+    "TASK": "6-1",
+    "Hugh": 4,
+    "Joe": 2,
+    "Lolly": 3,
+    "Mel": 5,
+    "Noel": 1
+  },
+  {
+    "TASK": "6-2",
+    "Hugh": 5,
+    "Joe": 3,
+    "Lolly": 3,
+    "Mel": 4,
+    "Noel": 1
+  },
+  {
+    "TASK": "6-3",
+    "Hugh": 0,
+    "Joe": 5,
+    "Lolly": 5,
+    "Mel": 2,
+    "Noel": 5
+  },
+  {
+    "TASK": "6-L",
+    "Hugh": 2,
+    "Joe": 1,
+    "Lolly": 3,
+    "Mel": 4,
+    "Noel": 5
+  },
+  {
+    "TASK": "7-P",
+    "Hugh": 5,
+    "Joe": 2,
+    "Lolly": 3,
+    "Mel": 1,
+    "Noel": 4
+  },
+  {
+    "TASK": "7-1",
+    "Hugh": 4,
+    "Joe": 3,
+    "Lolly": 1,
+    "Mel": 2,
+    "Noel": 5
+  },
+  {
+    "TASK": "7-2",
+    "Hugh": 3,
+    "Joe": 3,
+    "Lolly": 5,
+    "Mel": 4,
+    "Noel": 1
+  },
+  {
+    "TASK": "7-3",
+    "Hugh": 2,
+    "Joe": 3,
+    "Lolly": 3,
+    "Mel": 2,
+    "Noel": 3
+  },
+  {
+    "TASK": "7-4",
+    "Hugh": 3,
+    "Joe": 5,
+    "Lolly": 3,
+    "Mel": 3,
+    "Noel": 4
+  },
+  {
+    "TASK": "7-L",
+    "Hugh": 3,
+    "Joe": 4,
+    "Lolly": 5,
+    "Mel": 1,
+    "Noel": 2
+  },
+  {
+    "TASK": "7-T",
+    "Hugh": 0,
+    "Joe": 1,
+    "Lolly": 0,
+    "Mel": 0,
+    "Noel": 0
+  },
+  {
+    "TASK": "8-P",
+    "Hugh": 1,
+    "Joe": 4,
+    "Lolly": 5,
+    "Mel": 2,
+    "Noel": 3
+  },
+  {
+    "TASK": "8-1",
+    "Hugh": 6,
+    "Joe": 6,
+    "Lolly": 6,
+    "Mel": 7,
+    "Noel": 7
+  },
+  {
+    "TASK": "8-2",
+    "Hugh": 4,
+    "Joe": 3,
+    "Lolly": 1,
+    "Mel": 2,
+    "Noel": 5
+  },
+  {
+    "TASK": "8-3",
+    "Hugh": 2,
+    "Joe": 3,
+    "Lolly": 1,
+    "Mel": 5,
+    "Noel": 4
+  },
+  {
+    "TASK": "8-L",
+    "Hugh": 0,
+    "Joe": 0,
+    "Lolly": 0,
+    "Mel": 5,
+    "Noel": 1
+  }
+]
